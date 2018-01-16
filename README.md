@@ -1,4 +1,4 @@
-# Probabilistic-Graphical-Models
+# Reinforcement-learning
 
 All homeworks of the Reinforcement learning class from ENS Paris-Saclay [2017]
 
